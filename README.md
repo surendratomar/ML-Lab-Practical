@@ -1,3 +1,4 @@
-# Machine Learning -Lab-Practical
-- Perform In Colab 
+# Machine Learning OR DIP -Lab-Practical
+- Perform In Colab For ML
+- Perform In MATLAB For DIP 
 - Surendra Tomar
